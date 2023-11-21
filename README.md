@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JP-magalu
+- 👋 Hi, I’m João Pedro Machado
 - 👀 I’m interested in to learn Python
 - 🌱 I’m currently learning programming languages
 - ✅ I'm looking to collaborate with my team of the Luizalabs 
