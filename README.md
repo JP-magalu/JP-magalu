@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JP-magalu
 - 👀 I’m interested in to learn Python
 - 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on my equip of Luizalabs
+- ✅ I'm looking to collaborate with my Luizalabs team
 
 <!---
 JP-magalu/JP-magalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
